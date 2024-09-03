@@ -1,0 +1,2 @@
+# JavaScriptFunctions
+Personal practice
